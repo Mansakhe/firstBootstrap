@@ -1,0 +1,14 @@
+.header{
+    background: rgb(2,1,61);
+}
+img.img1{
+    height:60%;
+    width: 90%;
+    
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
